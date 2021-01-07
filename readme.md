@@ -23,4 +23,4 @@
 ### // 15. The function to publish the results ...
 ### // 16. I call the endGame function that will clear the selection of an item (border) when I click Let's play.
 ### // 17. I create an endGame function.
-### [click here to see how it works(https://marekzemla.github.io/-PAPER-STONE-SCISSORS-GAME/)
+### [click here to see how it works](https://marekzemla.github.io/-PAPER-STONE-SCISSORS-GAME/)

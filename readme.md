@@ -7,8 +7,7 @@
 ### // 4. Then I set the method addEventListener for choosen elements, but first have to use ForEach  because addEvent.. doesn't work on the array. I can use the forEach method where I specify that I have a correspondence to each element of the array signed to a hands string, and then I have to set the addEventListener method on each and assign a declared function ....
 ### // 5. The first function where I specify the clicked element with the this.dataset.option method and assign the result of the click to the playerHand element inside the game variable.
 ### // 6. Inside the same function I give the selected element the border color. But for this to work properly, when I assign the border to the clicked element, it must be removed from the previously clicked element. In this clu, I first use the forEach function, in which I clear the previously assigned colored border. And then I use the this.style.boxShadow method to add to the newly clicked element.
-## // FUNCTION CONTROLLING THE GAME PROCESS
-### // (to control what functions are executed when)
+## // FUNCTION CONTROLLING THE GAME PROCESS (to control what functions are executed when)
 
 ### // 7. I download the start button and set it to listen for click and assign it to the declared function
 ### // 8. I'm creating a startGame function

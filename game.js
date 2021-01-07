@@ -59,6 +59,7 @@ if(result === 'win'){
 // 17.
 function endGame (){
     document.querySelector(`[data-option=${game.playerHand}]`).style.boxShadow = "";
+    game.playerHand = "";
 }
 //8.
 function startGame() {
